@@ -1,0 +1,9 @@
+obj/*
+bin/*
+cfg.txt
+invalid.txt
+keywords.txt
+language.depend
+language.layout
+symbols.txt
+test.txt
